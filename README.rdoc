@@ -1,28 +1,6 @@
-== README
+== Sofwate as a Service project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a service to organizations control their projects and manage
+the team who is working with the project.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The complete Ruby on Rails Developer Couse final chapter. Need AWS account to continue. (Section 10 - class 253 Setting up AWS)
